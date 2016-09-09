@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2", "TP2\TP2.csproj", "{592AB99F-A8D6-4EC2-A96F-A6CE4DAEA30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2_ej2", "TP2_ej2\TP2_ej2.csproj", "{51D6D7B4-5CEA-4A7D-A238-A7FC740EE9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592AB99F-A8D6-4EC2-A96F-A6CE4DAEA30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592AB99F-A8D6-4EC2-A96F-A6CE4DAEA30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592AB99F-A8D6-4EC2-A96F-A6CE4DAEA30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592AB99F-A8D6-4EC2-A96F-A6CE4DAEA30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D6D7B4-5CEA-4A7D-A238-A7FC740EE9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D6D7B4-5CEA-4A7D-A238-A7FC740EE9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D6D7B4-5CEA-4A7D-A238-A7FC740EE9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D6D7B4-5CEA-4A7D-A238-A7FC740EE9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
